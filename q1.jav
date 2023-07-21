@@ -25,7 +25,7 @@ public static void main(String[] args)
     System.out.println("output");
     for (int j = 0; j < n; j++) {
       cm *= array[j];
-      array[j] = cm;6
+      array[j] = cm;
       System.out.println(array[j]);
     }
   }
